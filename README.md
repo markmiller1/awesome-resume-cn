@@ -16,6 +16,7 @@
 
 ## 🤖 AI Assistants
 - [ResumeWorded](https://www.resumeworded.com/) — AI 简历评分与优化建议（英文为主）
+- [ResumeAI](https://withresumeai.com/) — Free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (Workday 37.9%)
 - [Rezi](https://www.rezi.ai/) — AI 简历生成器
 
 ## 📖 Reading
