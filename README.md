@@ -15,6 +15,7 @@
 - [Offer 帮](https://www.offerbang.io/) — 求职面试资料
 
 ## 🤖 AI Assistants
+- [JobEmerge](https://www.jobemerge.work) — AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
 - [ResumeWorded](https://www.resumeworded.com/) — AI 简历评分与优化建议（英文为主）
 - [Rezi](https://www.rezi.ai/) — AI 简历生成器
 
